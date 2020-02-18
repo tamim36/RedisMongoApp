@@ -1,0 +1,8 @@
+C:\Users\tamim\source\repos\RedisMongoApp\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+C:\Users\tamim\source\repos\RedisMongoApp\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Users\tamim\source\repos\RedisMongoApp\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Users\tamim\source\repos\RedisMongoApp\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Users\tamim\source\repos\RedisMongoApp\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\tamim\source\repos\RedisMongoApp\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\tamim\source\repos\RedisMongoApp\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Users\tamim\source\repos\RedisMongoApp\Model\obj\Debug\netcoreapp3.1\Model.pdb
